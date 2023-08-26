@@ -1,9 +1,20 @@
 /*primary style sheet for Jian Satumbaga personal portfolio*/
-h1 {
-    text-align: center;
-}
-.section1{
-}
 
-.projects ul{list-style-type: square;
-}
+body,h1,h2,h3,ul,li,body,p{
+font-family: Arial, Helvetica, sans-serif;}
+
+h1{text-align: center;
+background-color: azure;}
+
+body{font-size: large;
+background-color:azure;}
+
+.bio{background-color:azure;
+font-size: larger;}
+
+.skills{background-color:azure;}
+
+.Projects{background-color: azure;}
+
+.contact{list-style-type: square;
+font-style: italic;}/**makes bullets visually different as last information**/
